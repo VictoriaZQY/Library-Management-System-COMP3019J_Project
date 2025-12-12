@@ -1,6 +1,8 @@
 # Library-Management-System-COMP3019J_Project
 This system aims to provide users with an efficient and convenient platform for book borrowing and management. Main features include: Login and Registration of Personal Information, Borrowing and Returning Books, Lost and Found, and Message Board. 
 
+Code can be found on: https://csgitlab.ucd.ie/web1/comp3019j_project
+
 ## Introduction to the Library Management System
 Welcome to our Library Management System! This system aims to provide users with an efficient and convenient platform for book borrowing and management. Below are the main features of the system and our future development goals:
 
